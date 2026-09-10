@@ -6,6 +6,12 @@ This project presents an interactive **Power BI Dashboard** created using the Sm
 
 The dashboard provides a clear and interactive view of problem statements submitted by different organizations, ministries, and departments.
 ## 🎯 Dashboard Pages
+<img width="1332" height="782" alt="image" src="https://github.com/user-attachments/assets/219e8c2e-d7de-489e-9d7c-286850cece16" />
+<img width="1332" height="792" alt="image" src="https://github.com/user-attachments/assets/2ec2b4b8-a33b-4513-85a5-034376e17165" />
+<img width="1327" height="785" alt="image" src="https://github.com/user-attachments/assets/e4d06aad-754b-4b84-9dba-750ac871199c" />
+
+
+
 
 ## 📌 Dataset Overview
 
